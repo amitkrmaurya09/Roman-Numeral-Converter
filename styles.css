@@ -41,7 +41,6 @@
 .output{
   padding: 5px 10px;
   border: 5px solid var(--text-color);
-  width: 370px;
   height: fit-content;
   color: var(--text-color);
 }
@@ -49,8 +48,6 @@
   padding: 5px 10px;
   border: 5px solid red;
   width: fit-content;
-  height: fit-content;
-  text-wrap: wrap;
   color: var(--text-color);
 }
 #output {
